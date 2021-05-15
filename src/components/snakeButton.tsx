@@ -1,5 +1,5 @@
-import React, { FunctionComponent } from 'react';
-import styles from './snakeButton.module.sass';
+import { FunctionComponent } from "react";
+import styles from "./snakeButton.module.sass";
 
 export const SnakeButton: FunctionComponent = () => {
   return (
